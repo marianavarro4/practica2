@@ -1,0 +1,74 @@
+[{
+    "id": 1,
+    "titulo": "Wuolah",
+    "srcimg": "https://lanzadera.es/wp-content/uploads/2017/10/wuolah-logo.png",
+    "alt": "Logotip de l'aplicaicó Wuolah",
+    "texto": "Wuolah és una plataforma en la qual pots penjar o descarregar apunts, pràctiques i exàmens, és a dir, contingut acadèmic, de quasi qualsevol institut / universitat.",
+    "url": "https://www.wuolah.com/"
+},
+{
+    "id": 2,
+    "titulo": "ILovePdf",
+    "srcimg": "https://isenacode.com/wp-content/uploads/2021/05/ilovepdf-navaja-suiza-docs-r.jpg",
+    "alt": "Fotografia de l'aplicació ILovePdf",
+    "texto": "ILovePdf és una plataforma que et permet editar, convertir i de tot el que et puguis imaginar de fer, a un arxiu .pdf.",
+    "url": "https://www.ilovepdf.com/es"
+},
+{
+    "id": 3,
+    "titulo": "Canva",
+    "srcimg": "https://blog.hotmart.com/blog/2019/08/BLOG_canva.png",
+    "alt": "Logotip de la web Canva",
+    "texto": "Canva és una web / aplicació que et facilita la creació de contingut digital, ja siguin documents, posts, presentacions, etc.",
+    "url": "https://www.canva.com/es_es/"
+},
+{
+    "id": 4,
+    "titulo": "Copyboom",
+    "srcimg": "http://copyboom.es/content/images/logoboom.png",
+    "alt": "Logotip de la web Copyboom",
+    "texto": "Copyboom és una de les copisteries online més econòmiques que existeixen actualment. A més enquadernen els teus apunts amb anelles de colors i fan enviaments a tota Espanya.",
+    "url": "http://copyboom.es/"
+},
+{
+    "id": 5,
+    "titulo": "Flaticon",
+    "srcimg": "https://media.flaticon.com/share/flaticon-generic.jpg",
+    "alt": "Logotip de la web Flaticon",
+    "texto": "Si necessites qualsevol icona aquesta és la pàgina perfecta! Cerca entre milers d'icones gratuites i descarrega-les de forma gratuïta.",
+    "url": "https://www.flaticon.es/"
+},
+{
+    "id": 6,
+    "titulo": "Unidays",
+    "srcimg": "https://play-lh.googleusercontent.com/wO9wGktskOsH6MY32v53zAjTQ7WxLQ6VL_9XvUaAeEgcMh_0lixni0OvIHpOTK0t45Y",
+    "alt": "Logotip de l'aplicació Unidays",
+    "texto": "Ets universitari i pel sol fet de ser-ho pots gaudir de centenars de descomptes i promocions en les teves botigues / apps preferides. Exemples d'aquestes són: Amazon, Converse, Nike...",
+    "url": "https://www.myunidays.com/ES/es-ES"
+},
+{
+    "id": 7,
+    "titulo": "Unreal Engine",
+    "srcimg": "https://br.atsit.in/es/wp-content/uploads/2021/10/como-instalar-unreal-engine-4-en-ubuntu.jpg",
+    "alt": "Fotografia de l'aplicació Unreal Engine",
+    "texto": "Amb Unreal Engine podràs començar a desenvolupar jocs de realitat virtual i aplicacions virtuals. Podràs crear jocs per una plataforma i ports per consoles o tabletes Android amb gran facilitat.",
+    "url": "https://www.unrealengine.com/en-US/"
+},
+{
+    "id": 8,
+    "titulo": "Tinkercad",
+    "srcimg": "https://universoabiertoblog.files.wordpress.com/2020/02/2014-09-25_20-09-38__screenshot-www_tinkercad_com_2014-09-25_23-08-22.png",
+    "alt": "Fotografia de la web de Tinkercad",
+    "texto": "Tinkercad és una web gratuïta que pertany a AutoDesk (aquest també conté el conegut programa AutoCad). En aquesta plataforma podràs crear dissenys 3D de forma sencilla i molt intuïtiva.",
+    "url": "https://www.tinkercad.com/"
+},
+{
+    "id": 9,
+    "titulo": "Blender",
+    "srcimg": "https://docs.blender.org/manual/es/latest/_images/getting-started_about_introduction_screenshot.jpg",
+    "alt": "Fotografia de l'aplicació Blender",
+    "texto": "Blender és un programa informàtic multiplataforma, dedicat especialment al modelatge, il·luminacií, renderitzat, animació i creació de gràfics tridimensionals. També de composició digital utilitzant la tècnica de nodes, edició de vídeo, escultura i pintura digital.",
+    "url": "https://www.blender.org/"
+}
+]
+

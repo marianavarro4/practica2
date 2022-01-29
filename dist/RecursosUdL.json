@@ -1,0 +1,50 @@
+[{
+    "id": 1,
+    "titulo": "Biblioteques UdL",
+    "srcimg": "https://www.udl.cat/export/sites/universitat-lleida/ca/serveis/oficina/.galleries/images/imatges-premsa4/biblio.jpg",
+    "alt": "Fotografia Biblioteca de Cappont",
+    "texto": "Les Biblioteques de la Universitat de Lleida tenen les portes obertes durant quasi tots els dies de l'any, a més, pots reservar espais de treball en grup i fer ús del prèstec de llibres.",
+    "url": "http://bid.udl.cat/ca/"
+},
+{
+    "id": 2,
+    "titulo": "Consell de l'Estudiantat EPS",
+    "srcimg": "http://www.eps.udl.cat/Grupo-CEEPS.jpeg?__scale=w:2048,h:1536,t:2,c:transparent,q:100",
+    "alt": "Fotografia de l'equip de Coordinació del Consell de l'Estudiantat de l'EPS",
+    "texto": "Él Consell de l'Estudiantat és l'òrgan de representació estudiantil del qual pots formar part i pot ajudar-te a resoldre problemes o qualsevol dubte que puguis tenir. A més, organitza activitats, festes, etc.",
+    "url": "http://www.consell-eps.udl.cat/"
+},
+{
+    "id": 3,
+    "titulo": "Compte Microsoft",
+    "srcimg": "https://i0.wp.com/unaaldia.hispasec.com/wp-content/uploads/2021/01/Microsoft-Office-365.jpg?fit=1200%2C720&ssl=1",
+    "alt": "Imatge del Servei Office 365 de Microsoft",
+    "texto": "El servei Office 365 de Microsoft és una eina que permet accedir a tota la comunitat de la Universitat de Lleida a les aplicacions que en formen part: Word, Excel, PowerPoint, OneDrive, OneNote, entre d'altres.",
+    "url": "https://confluence.udl.cat/plugins/servlet/mobile?contentId=37749761#content/view/37749761"
+},
+{
+    "id": 4,
+    "titulo": "Repositori d'exàmens",
+    "srcimg": "https://www.ecestaticos.com/imagestatic/clipping/7ba/2bf/7ba2bf270a0d2383052ac1dc127e591b/4-trucos-psicologicos-para-acertar-las-respuestas-en-un-examen-tipo-test.jpg?mtime=1623031767",
+    "alt": "Fotografia d'un examen tipus test",
+    "texto": "El respositori d'exàmens va ser creat pel Consell de l'Estudiantat de l'EPS per facilitar els alumnes de l'escola exàmens / pràctiques /apunts d'altes anys. *Per accedir a aquest repositori t'hauràs d'haver donat d'alta amb el compte de Microsoft que proporciona la UdL.",
+    "url": "http://www.consell-eps.udl.cat/cat/examenes.php"
+},
+{
+    "id": 5,
+    "titulo": "Portal del Delegat",
+    "srcimg": "http://www.eps.udl.cat/EntregaEPS.jpeg?__scale=w:2048,h:1536,t:2,c:transparent,q:100",
+    "alt": "Fotografia de tres delegats amb la directora de l'Escola",
+    "texto": "Necessites contactar amb el delegat d'alguna titulació? El portal del delegat et facilita el seu correu institucional perquè puguis contactar amb ells.",
+    "url": "https://delegats-udl.herokuapp.com/delegats/list/1/1/0/"
+},
+{
+    "id": 6,
+    "titulo": "Autoritats Acadèmiques EPS",
+    "srcimg": "http://www.eps.udl.cat/export/sites/Eps/DSC_7886.jpg",
+    "alt": "Fotografia de l'Equip Directiu de l'EPS",
+    "texto": "Aquesta pàgina web conté la informació de contacte de les autoritats acadèmiques de l'Escola Politècnica Superior de la Universitat de Lleida.",
+    "url": "http://www.eps.udl.cat/ca/lescola/organitzacio/autoritats-academiques/"
+}
+
+]
