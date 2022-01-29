@@ -11,7 +11,7 @@
         <section class="form">
             <form action="" class="text-center">
                 <input v-model="nombre" @keyup.enter="crearPersona" type="text" class="form-control" placeholder="Nom i cognoms" style="margin-bottom: 20px">
-                <input v-model="edad" @keyup.enter="crearPersona" type="number" name="edad" placeholder="Correu electrònic" class="form-control" style= "margin-bottom: 20px">
+                <input v-model="edad" @keyup.enter="crearPersona" type="text" name="correo" placeholder="Correu electrònic" class="form-control" style= "margin-bottom: 20px">
                 
                 <!-- Botón para añadir -->
                 <input @click="crearPersona" type="button" value="Afegir" class="btn btn-success">
@@ -83,7 +83,7 @@
             // Input nombre
             nombre: '',
             // Input edad
-            edad: '',
+            correo: '',
             // Ver o no ver el formulario de actualizar
             formActualizar: false,
             // La posición de tu lista donde te gustaría actualizar 
